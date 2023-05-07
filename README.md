@@ -5,3 +5,4 @@
 + <a href="ACG轻小说.md">轻小说</a>
 + <a href="ACG图片.md">图片</a>
 + <a href="ACG游戏.md">游戏</a>
++ <a href="ACG百科の咨询.md">百科の咨询</a>
