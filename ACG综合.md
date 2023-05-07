@@ -1,1 +1,23 @@
-
+## 论坛
++ KDays：https://kdays.net/
++ 天使动漫：https://www.tsdm39.net/
++ 花火学园：https://www.sayhuahuo.net/
++ 澄空学园：https://bbs.sumisora.net/
++ 漫游：https://bbs.popgo.org/bbs/
++ Anime字幕论坛：https://bbs.acgrip.com/
++ 终点论坛：https://bbs.zdfx.net/
++ Thevisualnoveldatabase：https://vndb.org/
++ stage1/s1：https://bbs.saraba1st.com/
++ NGA玩家社区：https://ngabbs.com/
++ 千夏町：https://www.airota.net/
+## 资源
++ 幻天领域：https://www.acgns.org/
+## 音乐
++ 幻想次元：https://hxcy.moe/
++ Hikarinoakari：https://hikarinoakari.com/
++ 漫音社：http://www.acgjc.com/
+## 字幕/压制
++ VCB-Studio：https://vcb-s.com/
++ 诸神字幕组：https://subs.kamigami.org/
+## 杂项
++ TTSModels（AI声库）：https://github.com/CjangCjengh/TTSModels
