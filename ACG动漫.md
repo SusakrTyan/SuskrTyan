@@ -28,3 +28,5 @@
 + bilibili：https://www.bilibili.tv/
 ## 漫画
 + Mox（亚马逊漫画）：http://mox.moe/
+## 漫画下载
++ Zero搬运网：http://www.zerobyw.top/
