@@ -4,9 +4,12 @@
 + 百合情报：http://yurinavi.com/
 + 百合物语：https://kaiteki.exp.jp/
 + 聖地巡礼：https://ajin-movie.com/
++ Anichoice：https://anichoice.com/
++ マンガアニメをオタクが語る：https://newstisiki.com/
++ Animex动漫社：http://www.animetox.com/
 ## 百科
 + Bangumi番组计划：https://bangumi.tv/
 + 萌娘百科：https://zh.moegirl.org.cn/
 + TBS番組表：https://www.tbs.co.jp/
 + d动漫（アニメストア）：https://animestore.docomo.ne.jp/
-+ 
++ ピクシブ百科事典：https://dic.pixiv.net/
