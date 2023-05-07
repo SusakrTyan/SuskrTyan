@@ -16,12 +16,12 @@
 + ZzZFun：http://www.zzzfun.com/
 + Omofun：https://omofun.tv/
 + 次元城动漫：https://www.cycity.top/
-+ TV漫岛：https://www.mddm.tv
++ TV漫岛：https://www.mddm.tv/
 + ギリギリ動画：https://anime.girigirilove.com
-+ MX动漫：https://mxdm.cc
-+ ANi Open：https://aniopen.a-ni.workers.dev
-+ 动漫菌：https://www.dmjun.com
-+ 桜舞动漫：https://skr-cc.com
-+ NT动漫：http://www.ntyou.cc
-ZzzFun：http://www.zzzfun.com
-动漫疯：https://ani.gamer.com.tw
++ MX动漫：https://mxdm.cc/
++ ANi Open：https://aniopen.a-ni.workers.dev/
++ 动漫菌：https://www.dmjun.com/
++ 桜舞动漫：https://skr-cc.com/
++ NT动漫：http://www.ntyou.cc/
+ZzzFun：http://www.zzzfun.com/
+动漫疯：https://ani.gamer.com.tw/
