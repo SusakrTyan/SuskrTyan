@@ -6,5 +6,4 @@
 + <a href="ACG图片.md">图片</a>
 + <a href="ACG游戏.md">游戏</a>
 + <a href="ACG百科の咨询.md">百科の咨询</a>
-+ <a href="ACG论坛.md">论坛</a>
 + <a href="ACG综合.md">综合</a>
