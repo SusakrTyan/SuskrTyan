@@ -41,6 +41,14 @@ Magic-Copy、浏览器快速抠图插件：https://github.com/kevmo314/magic-cop
 直播录制：https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorde
 
 Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime
+Playnite（PC游戏管理）：https://github.com/JosefNemec/Playnite
 
+知了（Xposed模块）：https://github.com/shatyuka/Zhiliao/
+
+贴吧 Lite：https://github.com/HuanCheng65/TiebaLite
+
+轻小说EPUB制作：https://github.com/JeffersonQin/lightnovel_epub
+
+轻小说文库下载器：https://github.com/
 
 
