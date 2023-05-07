@@ -14,7 +14,7 @@
 + 面对可爱的男孩子：https://github.com/di404/Dress/
 + Image-to-Braille、图片转字符：https://github.com/505e06b2/Image-to-Braille/
 + Chromeos-Apk（安卓第三方运行）：https://github.com/vladikoff/chromeos-apk/
-+ 
++ 垃圾代码书写准则：https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
 + 
 ## ACG
 + MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
@@ -26,7 +26,6 @@
 + 轻小说EPUB制作：https://github.com/JeffersonQin/lightnovel_epub
 + 
 ## 未知
-手把手指导你写垃圾代码！从入门到精通！：https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
 PyDebloatX、一键卸载 Windows 默认程序：https://github.com/Teraskull/PyDebloatX
 Carbon、源码转图片：https://github.com/carbon-app/carbon
 Alist、存储聚合：https://github.com/alist-org/alist
