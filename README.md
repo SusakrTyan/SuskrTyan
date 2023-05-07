@@ -5,3 +5,4 @@
 ## ACG资源网站
 + <a href="ACG动漫.md">动漫</a>
 + <a href="ACG轻小说.md">轻小说</a>
++ <a href="ACG图片.md">图片</a>
