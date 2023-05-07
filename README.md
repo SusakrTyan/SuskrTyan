@@ -3,7 +3,7 @@
 ## 声明
 本站的内容是本人和用户搜集到的，如果侵犯了您的合法权益请联系我（338808826@qq.com），我将会移除此内容。
 ## ACG资源网站
-+ 动漫花园：https://dmhy.anoneko.com/
++ <a href="https://dmhy.anoneko.com/">动漫花园</a>
 + VoiStack Wedβhttps://www.voistock.com/ja/
 + TTSModels（AI声库）：https://github.com/CjangCjengh/TTSModels
 + 动漫花园镜像站：https://dongmanhuayuan.myheartsite.com/
