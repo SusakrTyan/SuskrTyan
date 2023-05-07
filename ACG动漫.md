@@ -23,5 +23,8 @@
 + 动漫菌：https://www.dmjun.com/
 + 桜舞动漫：https://skr-cc.com/
 + NT动漫：http://www.ntyou.cc/
-ZzzFun：http://www.zzzfun.com/
-动漫疯：https://ani.gamer.com.tw/
++ ZzzFun：http://www.zzzfun.com/
++ 动漫疯：https://ani.gamer.com.tw/
++ bilibili：https://www.bilibili.tv/
+## 漫画
++ Mox（亚马逊漫画）：http://mox.moe/
