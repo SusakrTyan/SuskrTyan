@@ -39,7 +39,6 @@ Windows直接使用的版本：https://github.com/zcf0508/autocut
 Notion风格头像：https://github.com/Mayandev/notion-avatar
 Magic-Copy、浏览器快速抠图插件：https://github.com/kevmo314/magic-copy
 直播录制：https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorde
-
 Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime
 Playnite（PC游戏管理）：https://github.com/JosefNemec/Playnite
 
