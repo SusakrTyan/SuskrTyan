@@ -13,7 +13,7 @@
 + Image-to-Braille、图片转字符：https://github.com/505e06b2/Image-to-Braille/
 + Chromeos-Apk（安卓第三方运行）：https://github.com/vladikoff/chromeos-apk/
 ## ACG
-＋ MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
++ MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
 + Chara（桌面宠物）：https://github.com/wkgcass/Chara
 + ACGPro（QQ机器人二次元随机图片）：https://github.com/ShrBox/ACGPro/
 + Bilibili-Evolved（网页脚本）：https://github.com/the1812/Bilibili-Evolved/
