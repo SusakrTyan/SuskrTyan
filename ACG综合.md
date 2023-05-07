@@ -12,6 +12,9 @@
 + 千夏町：https://www.airota.net/
 ## 资源
 + 幻天领域：https://www.acgns.org/
++ 次元狗：https://www.acgndog.com/
++ 二次元虫洞：http://www.2cycd.com/
+
 ## 音乐
 + 幻想次元：https://hxcy.moe/
 + Hikarinoakari：https://hikarinoakari.com/
