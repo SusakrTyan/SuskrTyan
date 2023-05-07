@@ -7,3 +7,4 @@
 + Pixivic: https://pixivic.com/
 + Pixivel: https://pixivel.moe/
 + Konachan.net: https://konachan.net/
++ Yousei-raws：https://yousei-raws.org/
