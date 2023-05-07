@@ -1,4 +1,4 @@
-## Ggl游戏
+## 游戏
 + 量子ACG：https://lzacg.one/
 + 初音的青葱：https://www.yngal.com/
 + 天使二次元：https://www.tianshi2.cc/
