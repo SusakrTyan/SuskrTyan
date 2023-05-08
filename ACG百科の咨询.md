@@ -13,3 +13,4 @@
 + TBS番組表：https://www.tbs.co.jp/
 + d动漫（アニメストア）：https://animestore.docomo.ne.jp/
 + ピクシブ百科事典：https://dic.pixiv.net/
++ Books（小说发行）：https://www.books.or.jp/
