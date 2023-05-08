@@ -25,13 +25,18 @@
 + bilibili视频下载：https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/
 + INeedBiliAV（哔哩哔哩批量下载）：https://github.com/nICEnnnnnnnLee/BilibiliDown/
 + 轻小说EPUB制作：https://github.com/JeffersonQin/lightnovel_epub/
-+ 轻小说文库下载器：https://github.com/Messiahhh/wenku8-downloader
++ 轻小说文库下载器：https://github.com/Messiahhh/wenku8-downloader/
++ Pixiv Func：https://github.com/git-xiaocao/pixiv_func_mobile/
++ Pixiv Shaft：https://github.com/CeuiLiSA/Pixiv-Shaft/
++ Pixiv网站挂件： https://github.com/mokeyjay/Pixiv-daily-ranking-widget/
 ## 休闲
 + Carbon（代码转图片）：https://github.com/carbon-app/carbon/
 + Notion风格头像：https://github.com/Mayandev/notion-avatar/
 + FinancialSupportForOpenSource（开源挣钱手册）：https://github.com/wizicer/FinancialSupportForOpenSource/
++ 让AI来玩王者：https://github.com/FengQuanLi/WZCQ/
 ## 停止维护
 + 贴吧 Lite：https://github.com/HuanCheng65/TiebaLite/
++ Pixiv画师下载插件：https://github.com/Mapaler/PixivUserBatchDownload/
 ## 未知
 + Alist、存储聚合：https://github.com/alist-org/alist/
 + AutoCut、通过字幕剪视频：https://github.com/mli/autocut/
