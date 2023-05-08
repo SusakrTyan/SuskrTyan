@@ -10,5 +10,5 @@
 + <a href="ACG百科の咨询.md">百科の咨询</a>
 + <a href="ACG综合.md">综合</a>
 ## 综合
-+ <a href="海淘/转运.md">海淘/转运</a>
++ <a href="海淘.md">海淘</a>
 + <a href="Github项目.md">Github项目</a>
