@@ -25,6 +25,7 @@
 + bilibili视频下载：https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/
 + INeedBiliAV（哔哩哔哩批量下载）：https://github.com/nICEnnnnnnnLee/BilibiliDown/
 + 轻小说EPUB制作：https://github.com/JeffersonQin/lightnovel_epub/
++ 轻小说文库下载器：https://github.com/Messiahhh/wenku8-downloader
 ## 休闲
 + Carbon（代码转图片）：https://github.com/carbon-app/carbon/
 + Notion风格头像：https://github.com/Mayandev/notion-avatar/
