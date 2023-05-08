@@ -14,7 +14,6 @@
 + 幻天领域：https://www.acgns.org/
 + 次元狗：https://www.acgndog.com/
 + 二次元虫洞：http://www.2cycd.com/
-
 ## 音乐
 + 幻想次元：https://hxcy.moe/
 + Hikarinoakari：https://hikarinoakari.com/
@@ -24,3 +23,10 @@
 + 诸神字幕组：https://subs.kamigami.org/
 ## 杂项
 + TTSModels（AI声库）：https://github.com/CjangCjengh/TTSModels
++ 二次元♀头像生成：https://www.thiswaifudoesnotexist.net/
++ 邪神AI：https://t.co/hfmUuxjAqN/
++ 2bit生成器：https://0x72.itch.io/2bitcharactergenerator/
++ 人物头像生成器：https://kenney.itch.io/avatar-mixer/
++ 简单怪物小人：https://0x72.itch.io/pixeldudesmaker/
++ 可爱怪物：https://kenney.itch.io/creature-mixer/
++ 幻想怪物：https://deep-fold.itch.io/pixel-sprite-generator/
