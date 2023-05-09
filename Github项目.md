@@ -8,6 +8,8 @@
 + Playnite（PC游戏管理）：https://github.com/JosefNemec/Playnite
 + 知了（Xposed模块）：https://github.com/shatyuka/Zhiliao/
 + PyDebloatX（卸载Windows默认程序）：https://github.com/Teraskull/PyDebloatX/
++ DeepSpeed - GPT：https://github.com/microsoft/DeepSpeed/
++ MiniGPT-4（本地/非官方）： https://github.com/Vision-CAIR/MiniGPT-4/
 ## 有趣
 + 神级注释：https://github.com/Blankj/awesome-comment/
 + 程序员延寿指南：https://github.com/geekan/HowToLiveLonger/
