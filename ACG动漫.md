@@ -10,7 +10,7 @@
 + 末日动漫：https://share.acgnx.se/
 + 東京図書館：https://www.tokyotosho.info/
 + Nyaa.is：http://nyaa.si/
-
++ 动漫资源（阿里网盘）： https://docs.qq.com/doc/DT0RQemxmWVRtdUFB?dver=/
 ## 在线播放
 + 风车动漫：https://www.93wuc.com/
 + ZzZFun：http://www.zzzfun.com/
@@ -26,6 +26,7 @@
 + ZzzFun：http://www.zzzfun.com/
 + 动漫疯：https://ani.gamer.com.tw/
 + bilibili：https://www.bilibili.tv/
++ https://www.acfuns.net/
 ## 漫画
 + Mox（亚马逊漫画）：http://mox.moe/
 ## 漫画下载
