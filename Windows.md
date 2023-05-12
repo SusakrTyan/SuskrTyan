@@ -24,5 +24,6 @@
 + Coodesker（整理）：https://www.coodesker.com/
 + CatTuber（桌宠）：https://help.steampowered.com/zh-cn/wizard/HelpWithGame/?appid=1337970/
 + Fences4（桌面磁贴）：https://www.stardock.com/products/fences/
+> 这是Stardock制作商的第4代、目前还有缺陷（官方好像摆烂了）、建议使用第3代的
 + Start11:https://www.stardock.com/products/start11/
 
