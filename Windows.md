@@ -13,3 +13,12 @@
 + Wallpaper Engine: https://www.wallpaperengine.io/en/
 + Win美化工具箱：https://winmoes.com/tools/12948.html/
 + TranslucentTB（任务栏透明）：https://github.com/TranslucentTB/TranslucentTB/
++ Rainmeter（雨滴）：https://www.rainmeter.net/
++ StartAllBack (开始菜单增强工具) ：https://startallback.com/
++ WinDynamicDesktop（动态桌面）：https://github.com/t1m0thyj/WinDynamicDesktop/releases/
++ BitDock（仿iOS）：http://www.bitdock.cn/
++ iTab新标签页：https://www.itab.link/
++ uTools（效率）：https://u.tools/
++ Quicker（效率）：https://getquicker.net/
++ Coodesker（整理）：https://www.coodesker.com/
+
