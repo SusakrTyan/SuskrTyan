@@ -11,6 +11,7 @@
 + Markdown：https://markdown.com.cn/
 ## 桌面美化
 + Wallpaper Engine: https://www.wallpaperengine.io/en/
++ SAO Utils 2:http://sao.gpbeta.com/
 + Win美化工具箱：https://winmoes.com/tools/12948.html/
 + TranslucentTB（任务栏透明）：https://github.com/TranslucentTB/TranslucentTB/
 + Rainmeter（雨滴）：https://www.rainmeter.net/
@@ -21,4 +22,6 @@
 + uTools（效率）：https://u.tools/
 + Quicker（效率）：https://getquicker.net/
 + Coodesker（整理）：https://www.coodesker.com/
++ CatTuber（桌宠）：https://help.steampowered.com/zh-cn/wizard/HelpWithGame/?appid=1337970/
++ Fences4（桌面磁贴）：https://www.stardock.com/
 
