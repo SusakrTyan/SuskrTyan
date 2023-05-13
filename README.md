@@ -24,7 +24,7 @@
 + [壁纸](综合/壁纸.md)
 ## 外语学习
 + [日语](外语学习/日语.md)
-+ [英语](外语学习/英语.md)\
++ [英语](外语学习/英语.md)
 ## SuskrTyan推荐
 + [bilibili推荐栏](bilibili推荐栏.md)
 + [YouTube推荐栏](YouTube推荐栏.md)
