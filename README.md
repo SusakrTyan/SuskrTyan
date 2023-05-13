@@ -6,8 +6,8 @@
 + [轻小说](ACG/ACG轻小说.md)
 + [图片](ACG/ACG图片.md)
 + [游戏](ACG/ACG游戏.md)
-+ <a href="ACG百科の咨询.md">百科の咨询</a>
-+ <a href="ACG综合.md">综合</a>
++ [百科の咨询](ACG/ACG百科の咨询.md)
++ [综合](ACG/ACG综合.md)
 ## 科技
 + <a href="Android.md">Android</a>
 + <a href="Windows.md">Windows</a>
