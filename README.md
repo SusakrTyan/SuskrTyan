@@ -25,7 +25,7 @@
 ## 外语学习
 + [日语](外语学习/日语.md)
 + [英语](外语学习/英语.md)
-## SuskrTyan推荐
-+ [bilibili推荐栏](SuskrTyan推荐/bilibili推荐栏.md)
-+ [YouTube推荐栏](SuskrTyan推荐/YouTube推荐栏.md)
+## SuskrTyan笔记/推荐
++ [bilibili推荐栏](SuskrTyan/bilibili推荐栏.md)
++ [YouTube推荐栏](SuskrTyan/YouTube推荐栏.md)
 ### 收录的内容关于H相关的会尽可能降低、考虑到人的根本需求这是不可避免的、所以不会一味的进行否定、但以此为主的均不会收录。
