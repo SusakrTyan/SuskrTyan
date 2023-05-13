@@ -30,3 +30,4 @@
 + 简单怪物小人：https://0x72.itch.io/pixeldudesmaker/
 + 可爱怪物：https://kenney.itch.io/creature-mixer/
 + 幻想怪物：https://deep-fold.itch.io/pixel-sprite-generator/
++ ACG导航：https://www.likejay.cn/acg%E7%A4%BE
