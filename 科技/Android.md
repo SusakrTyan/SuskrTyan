@@ -16,3 +16,5 @@
 + ChatWaifu Mobile（二次元手机AI老婆聊天）：https://github.com/Voine/ChatWaifu_Mobile
 + TTS Server（已停更，微软网络朗读）：https://github.com/jing332/tts-server-android
 + PPSPP：https://www.ppsspp.org/
++ APK Premier：https://apkpremier.com/
++ Apkturbo：https://www.apkturbo.com/apps/
