@@ -9,16 +9,16 @@
 + [百科の咨询](ACG/ACG百科の咨询.md)
 + [综合](ACG/ACG综合.md)
 ## 科技
-+ <a href="Android.md">Android</a>
-+ <a href="Windows.md">Windows</a>
-+ <a href="iOS.md">iOS</a>
-+ <a href="项目.md">项目</a>
++ [Android](科技/Android.md)
++ [Windows](科技/Windows.md)
++ [iOS](科技/iOS.md")
++ [项目](科技/项目.md)
 ## 综合
-+ <a href="海淘.md">海淘</a>
-+ <a href="Github项目.md">Github项目</a>
-+ <a href="BT种子下载.md">BT种子下载</ea>
-+ <a href="乱七八糟.md">乱七八糟</a>
++ [海淘](综合/海淘.md")
++ [Github项目](综合/Github项目.md)
++ [BT种子下载](综合/BT种子下载.md)
++ [乱七八糟](综合/乱七八糟.md)
 ## 外语学习
-+ <a href="日语.md">日语</a>
-+ <a href="英语.md">英语</a>
++ [日语](外语学习/日语.md)
++ [英语](外语学习/英语.md)
 ### 收录的内容关于H相关的会尽可能降低、考虑到人的根本需求这是不可避免的、所以不会一味的进行否定、但以此为主的均不会收录。
