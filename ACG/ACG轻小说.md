@@ -1,0 +1,13 @@
+## 轻小说（中）
++ 百合会：https://www.yamibo.com/
++ 轻之国度：https://www.lightnovel.us/
++ 深夜读书会：http://ritdon.com/
++ 铅笔小说：https://www.23qb.net/lightnovel/
++ 轻之文库：https://www.linovel.net/
++ 图书馆的无限回廊：https://epub.love/
++ 轻书架：https://www.lightnovel.app/
++ 魔笔小说：https://www.mobinovels.com/
++ 真白萌：https://masiro.moe/
++ 轻小说文库：https://www.wenku8.net/
+## 轻小说（日）
++ 成为小说家：https://ncode.syosetu.com/
