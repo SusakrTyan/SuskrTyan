@@ -32,5 +32,8 @@
 + [bilibili推荐栏](SuskrTyan/bilibili推荐栏.md)
 + [YouTube推荐栏](SuskrTyan/YouTube推荐栏.md)
 + [家庭、私有制和国家起源](SuskrTyan/家庭、私有制和国家起源.md)
++ 闲聊群（百合）
+![DCF4D287-A10C-4FD7-85DA-62A8BEFD4E17](https://github.com/SusakrTyan/SuskrTyan/assets/130807617/966267a6-cf21-4d38-9ad5-70d3ad4dd795)
+ 
 ### 收录的内容关于H相关的会尽可能降低、考虑到人的根本需求这是不可避免的、所以不会一味的进行否定、但以此为主的均不会收录。
 ### （后续的'github.io'静态部署、将会避免出现H内容）
