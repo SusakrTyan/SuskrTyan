@@ -14,6 +14,7 @@
 + 幻天领域：https://www.acgns.org/
 + 次元狗：https://www.acgndog.com/
 + 二次元虫洞：http://www.2cycd.com/
++ Tachiyomi（软件）：https://tachiyomi.org/
 ## 音乐
 + 幻想次元：https://hxcy.moe/
 + Hikarinoakari：https://hikarinoakari.com/
