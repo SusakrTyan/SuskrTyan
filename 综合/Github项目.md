@@ -19,6 +19,7 @@
 + Chromeos-Apk（安卓第三方运行）：https://github.com/vladikoff/chromeos-apk/
 + 垃圾代码书写准则：https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
 + Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime/
++ ReVanced YouTube：https://github.com/sponsors/revanced
 ## ACG
 + MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
 + Chara（桌面宠物）：https://github.com/wkgcass/Chara
