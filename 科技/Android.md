@@ -25,4 +25,4 @@
 + NodeVideo（视频编辑/AE）：https://www.nodevideo.cn/
 + Alight Motion（视频编辑/AE）：https://alightcreative.com/zh-CN/
 ## 日常软件
-+百度网盘（密码：7w01）：https://firepx.lanzoux.com/b00tikykh/
++百度网盘（7w01）：https://firepx.lanzoux.com/b00tikykh/
