@@ -22,6 +22,7 @@
 + ReVanced YouTube：https://github.com/sponsors/revanced/
 + RVC变声（VITS框架）：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/
 + VC Client变声：https://github.com/w-okada/voice-changer/
++ NullLib.PhantomTank（幻影坦克）： https://www.nuget.org/packages/NullLib.PhantomTank/
 ## ACG
 + MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
 + Chara（桌面宠物）：https://github.com/wkgcass/Chara
