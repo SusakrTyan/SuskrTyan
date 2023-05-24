@@ -30,3 +30,4 @@
 +百度网盘（7w01）：https://firepx.lanzoux.com/b00tikykh/
 ## 其他
 + 迷雾工作室：https://www.mium.studio/
++ 52模拟：http://52emu.cn/wp/
