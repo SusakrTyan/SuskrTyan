@@ -12,6 +12,7 @@
 + Bmap白马地图：https://www.bmaps.cn/help.html
 + 清浊：https://www.dircleaner.com/
 + GGuardian：https://gameguardian.net/forum/files/file/2-gameguardian/
++ ExaTool：https://www.mium.studio/ExaTool/
 + 轻小说文库：https://github.com/MewX/light-novel-library_Wenku8_Android
 + ChatWaifu Mobile（二次元手机AI老婆聊天）：https://github.com/Voine/ChatWaifu_Mobile
 + TTS Server（已停更，微软网络朗读）：https://github.com/jing332/tts-server-android
@@ -27,3 +28,5 @@
 + Avee Music Player（音频可视化）https://www.aveeplayer.com/
 ## 日常软件
 +百度网盘（7w01）：https://firepx.lanzoux.com/b00tikykh/
+## 其他
++ 迷雾工作室：https://www.mium.studio/
