@@ -5,6 +5,7 @@
 + Inviska MKVE xtract（字幕抽取）：https://www.videohelp.com/software/Inviska-MKV-Extract/
 + 小丸工具箱: 
 + 7-Zip: https://www.7-zip.org/
++ 安联 AnLink：https://cn.anlinksoft.com/
 + Watt Toolkit（Steam++）：https://steampp.net/
 + 樱花内网穿透：https://www.natfrp.com/
 + ちびコマドット絵作成機（像素智能生成） ：https://booth.pm/zh-cn/items/2490778/
