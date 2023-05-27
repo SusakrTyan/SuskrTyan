@@ -31,3 +31,4 @@
 ## 其他
 + 迷雾工作室：https://www.mium.studio/
 + 52模拟：http://52emu.cn/wp/
++ F-Droid（安卓远程控制）：https://github.com/ppyyr/tailscale-android/
