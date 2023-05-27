@@ -22,7 +22,7 @@
 + Apkturbo：https://www.apkturbo.com/apps/
 + ReVanced（YouTube）：https://revanced.io/
 ## 生产力工具
-+ Pro KnockOut（抠图）：http://www.godimage.mobi/
++ Pro KnockOut（抠图）：https://a.app.qq.com/o/simple.jsp?pkgname=com.godimage.knockout.free.cn&channel=0002160650432d595942&fromcase=60001/
 + NodeVideo（视频编辑/AE）：https://www.nodevideo.cn/
 + Alight Motion（视频编辑/AE）：https://alightcreative.com/zh-CN/
 + Avee Music Player（音频可视化）https://www.aveeplayer.com/
