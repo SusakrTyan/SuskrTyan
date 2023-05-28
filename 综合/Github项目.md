@@ -1,25 +1,25 @@
 ## 实用
-+ 程序员电子书：https://github.com/EbookFoundation/free-programming-books/
++ 程序员电子书：https://github.com/EbookFoundation/free-programming-books/  
 （免费的编程书籍）
-+ 程序员做饭指南：https://github.com/Anduin2017/HowToCook/
++ 程序员做饭指南：https://github.com/Anduin2017/HowToCook/  
 （程序员们的做饭指南与技巧）
-+ 程序员打字训练：https://qwerty.kaiyi.cool/
++ 程序员打字训练：https://qwerty.kaiyi.cool/  
 （程序员打字训练）
-+ 封面在线设计：https://pearmini.github.io/colorfu/#/
++ 封面在线设计：https://pearmini.github.io/colorfu/#/  
 （在线壁纸封面设计网站）
-+ Reference、代码速查表：https://github.com/jaywcjlove/reference/
++ Reference、代码速查表：https://github.com/jaywcjlove/reference/  
 （为开发人员分享快速参考备忘清单(速查表)）
-+ VSET视频处理：https://github.com/NangInShell/VSET
++ VSET视频处理：https://github.com/NangInShell/VSET  
 （基于Vapoursynth的图形化视频批量压制处理工具，超分辨率，补帧，vs滤镜一应俱全。）
-+ Playnite（PC游戏管理）：https://github.com/JosefNemec/Playnite
++ Playnite（PC游戏管理）：https://github.com/JosefNemec/Playnite  
 （游戏库管理器，支持广泛的第三方库和游戏仿真支持，为您的游戏提供一个统一的界面。）
-+ 知了 ：https://github.com/shatyuka/Zhiliao/
++ 知了 ：https://github.com/shatyuka/Zhiliao/  
 （知乎去广告Xposed模块）
-+ PyDebloatX（卸载Windows默认程序）：https://github.com/Teraskull/PyDebloatX/
++ PyDebloatX（卸载Windows默认程序）：https://github.com/Teraskull/PyDebloatX/  
 （用于卸载默认Windows 10应用程序的Python项目。）
-+ DeepSpeed - GPT：https://github.com/microsoft/DeepSpeed/
++ DeepSpeed - GPT：https://github.com/microsoft/DeepSpeed/  
 （一个深度学习优化库，使分布式训练和推理变得简单、高效和有效。）
-+ MiniGPT-4（本地/非官方）： https://github.com/Vision-CAIR/MiniGPT-4/
++ MiniGPT-4（本地/非官方）： https://github.com/Vision-CAIR/MiniGPT-4/  
 （本地部署的GPT，爱来自MiniGPT-4）
 
 ## AI模型工具
