@@ -37,46 +37,74 @@
 （使用 WebGPU 在浏览器中与 LLM（语言模型）进行聊天，完全安全、私密，无需服务器。 由 web-llm 提供支持。）
 
 ## Web相关工具
-- Halo ： <https://halo.run/>  
++ Halo ： <https://halo.run/>  
 （强大易用的开源建站工具）
-- Unclutter ： <https://github.com/lindylearn/unclutter>  
++ Unclutter ： <https://github.com/lindylearn/unclutter>  
 （用于浏览器的现代化阅读器插件）
-- Rety ： <https://rety.verou.me/>  
++ Rety ： <https://rety.verou.me/>  
 （Rety是一个可以对编辑操作进行演示重播的库）
-- dora ： <https://www.dora.run/>  
++ dora ： <https://www.dora.run/>  
 （3D动画网页生成与编辑）
 
 ## 有趣
-+ 神级注释：https://github.com/Blankj/awesome-comment/
-+ 程序员延寿指南：https://github.com/geekan/HowToLiveLonger/
-+ 灭霸脚本：https://github.com/hotvulcan/Thanos.sh/
-+ 面对可爱的男孩子：https://github.com/di404/Dress/
-+ Image-to-Braille、图片转字符：https://github.com/505e06b2/Image-to-Braille/
-+ Chromeos-Apk（安卓第三方运行）：https://github.com/vladikoff/chromeos-apk/
-+ 垃圾代码书写准则：https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
-+ Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime/
-+ ReVanced YouTube：https://github.com/sponsors/revanced/
-+ RVC变声（VITS框架）：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/
-+ VC Client变声：https://github.com/w-okada/voice-changer/
-+ NullLib.PhantomTank（幻影坦克）： https://www.nuget.org/packages/NullLib.PhantomTank/
++ 神级注释：https://github.com/Blankj/awesome-comment/  
+（神级注释，收集了一众幽默而巧妙的注释，带给大家快乐）
++ 程序员延寿指南：https://github.com/geekan/HowToLiveLonger/  
+（目标：稳健地活得更久~ 程序员延寿指南）
++ 灭霸脚本：https://github.com/hotvulcan/Thanos.sh/  
+（这个命令会随机“删掉”您一半的文件...）
++ 面对可爱的男孩子：https://github.com/di404/Dress/  
+（好耶~是女装！）
++ Image-to-Braille、图片转字符：https://github.com/505e06b2/Image-to-Braille/  
+（喂它一个图像，它就会转换成Unicode点阵图）
++ Chromeos-Apk（安卓第三方运行）：https://github.com/vladikoff/chromeos-apk/  
+（在ChromeOS 中运行 Android 应用程序，或在 OS X、Linux 和 Windows 中运行 Chrome。）
++ 垃圾代码书写准则：https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md  
+（这是一个你的项目应该遵循的垃圾代码书写准则的列表，把其称为适当的垃圾代码。）
++ Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime/  
+（个轻量级的JavaScript动画库，具有简单但功能强大的API。它适用于CSS属性，SVG，DOM属性和JavaScript对象。）
++ ReVanced YouTube：https://github.com/sponsors/revanced/  
+（ReVanced 旨在允许补丁自动在应用程序上运行，具有广告拦截、自定义主题等补丁，甚至是全新的功能 - 完全开源且免费）
++ RVC变声（VITS框架）：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/  
+（一个基于VITS的简单易用的语音转换（变声器）框架）
++ VC Client变声：https://github.com/w-okada/voice-changer/  
+（一个客户端软件，用于使用各种语音转换（VC）AI执行实时语音转换。）
++ NullLib.PhantomTank（幻影坦克）： https://www.nuget.org/packages/NullLib.PhantomTank/  
+（常见于QQ的双层图片，这是其实现用的项目，没错，是幻影坦克！）
 
 ## ACG
-+ MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
-+ Chara（桌面宠物）：https://github.com/wkgcass/Chara
-+ ACGPro（QQ机器人二次元随机图片）：https://github.com/ShrBox/ACGPro/
-+ Bilibili-Evolved（网页脚本）：https://github.com/the1812/Bilibili-Evolved/
-+ bilibili视频下载：https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/
-+ INeedBiliAV（哔哩哔哩批量下载）：https://github.com/nICEnnnnnnnLee/BilibiliDown/
-+ 轻小说EPUB制作：https://github.com/JeffersonQin/lightnovel_epub/
-+ 轻小说文库下载器：https://github.com/Messiahhh/wenku8-downloader/
-+ Pixiv Func：https://github.com/git-xiaocao/pixiv_func_mobile/
-+ Pixiv Shaft：https://github.com/CeuiLiSA/Pixiv-Shaft/
-+ Pixiv网站挂件： https://github.com/mokeyjay/Pixiv-daily-ranking-widget/
++ MoeTTS ：https://github.com/search?p=3&q=TTS&type=Repositories/  
+（gal角色TTS模型库）
++ Chara（桌面宠物）：https://github.com/wkgcass/Chara  
+（由JavaFX实现的桌面二次元角色。）
++ ACGPro ：https://github.com/ShrBox/ACGPro/  
+（QQ机器人二次元随机图片）
++ Bilibili-Evolved（网页脚本）：https://github.com/the1812/Bilibili-Evolved/  
+（强大的哔哩哔哩增强脚本）
++ bilibili视频下载：https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/  
+（跨平台下载哔哩哔哩视频桌面软件，支持windows、macOS、Linux）
++ INeedBiliAV ：https://github.com/nICEnnnnnnnLee/BilibiliDown/  
+（哔哩哔哩视频内容批量下载）
++ 轻小说EPUB制作：https://github.com/JeffersonQin/lightnovel_epub/  
+（（轻）小说 epub 生成器，支持站点：轻之国度、轻小说文库）
++ 轻小说文库下载器：https://github.com/Messiahhh/wenku8-downloader/  
+（轻小说文库的命令行小说下载器）
++ Pixiv Func：https://github.com/git-xiaocao/pixiv_func_mobile/  
+（功能齐全的Pixiv第三方客户端 免代理 支持查看动图查看直播）
++ Pixiv Shaft：https://github.com/CeuiLiSA/Pixiv-Shaft/  
+（Pixiv第三方Android客户端）
++ Pixiv网站挂件： https://github.com/mokeyjay/Pixiv-daily-ranking-widget/  
+（会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方）
+
 ## 休闲
-+ Carbon（代码转图片）：https://github.com/carbon-app/carbon/
-+ Notion风格头像：https://github.com/Mayandev/notion-avatar/
-+ FinancialSupportForOpenSource（开源挣钱手册）：https://github.com/wizicer/FinancialSupportForOpenSource/
-+ 让AI来玩王者：https://github.com/FengQuanLi/WZCQ/
++ Carbon（代码转图片）：https://github.com/carbon-app/carbon/  
+（创建和共享源代码的精美图像）
++ Notion风格头像：https://github.com/Mayandev/notion-avatar/  
+（用于制作概念风格头像的在线工具）
++ FinancialSupportForOpenSource（开源挣钱手册）：https://github.com/wizicer/FinancialSupportForOpenSource/  
+（"我在参与开源项目，但是我该如何挣钱呢？"案例与方法分享）
++ 让AI来玩王者：https://github.com/FengQuanLi/WZCQ/  
+（用基于策略梯度得强化学习方法训练AI玩王者荣耀）
 
 ## 媒体处理工具
 + QuickCut ： <https://github.com/HaujetZhao/QuickCut>  
@@ -89,12 +117,19 @@
 （一款开源的笔记软件）
 + Pot ： <https://github.com/pot-app/pot-desktop>  
 （一个跨平台的划词翻译软件）
+
 ## 停止维护
-+ 贴吧 Lite：https://github.com/HuanCheng65/TiebaLite/
-+ Pixiv画师下载插件：https://github.com/Mapaler/PixivUserBatchDownload/
++ 贴吧 Lite：https://github.com/HuanCheng65/TiebaLite/  
+（一个非官方的贴吧客户端。）
++ PixivUserBatchDownload 5 ：https://github.com/Mapaler/PixivUserBatchDownload/  
+（P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程下载。）
+
 ## 未知
-+ Alist、存储聚合：https://github.com/alist-org/alist/
-+ AutoCut、通过字幕剪视频：https://github.com/mli/autocut/
-+ Windows直接使用的版本：https://github.com/zcf0508/autocut/
-+ Magic-Copy、浏览器快速抠图插件：https://github.com/kevmo314/magic-copy/
-+ 直播录制：https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorde/
++ Alist、存储聚合：https://github.com/alist-org/alist/  
+（一个支持多存储的文件列表程序，使用 Gin 和 Solidjs）
++ AutoCut、通过字幕剪视频：https://github.com/mli/autocut/  
+（对你的视频自动生成字幕。然后你选择需要保留的句子，AutoCut 将对你视频中对应的片段裁切并保存。你无需使用视频编辑软件，只需要编辑文本文件即可完成剪切。）
++ AutoCut ：https://github.com/zcf0508/autocut/  
+（视频自动生成字幕并裁剪。这是Windows直接使用的版本）
++ Magic-Copy、浏览器快速抠图插件：https://github.com/kevmo314/magic-copy/  
+（一个Chrome扩展程序，它使用Meta的分段任何模型从图像中提取前景对象并将其复制到剪贴板。）
