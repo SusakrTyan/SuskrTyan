@@ -124,7 +124,7 @@
 + PixivUserBatchDownload 5 ：https://github.com/Mapaler/PixivUserBatchDownload/  
 （P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程下载。）
 
-## 未知
+## 杂项
 + Alist、存储聚合：https://github.com/alist-org/alist/  
 （一个支持多存储的文件列表程序，使用 Gin 和 Solidjs）
 + AutoCut、通过字幕剪视频：https://github.com/mli/autocut/  
@@ -133,3 +133,14 @@
 （视频自动生成字幕并裁剪。这是Windows直接使用的版本）
 + Magic-Copy、浏览器快速抠图插件：https://github.com/kevmo314/magic-copy/  
 （一个Chrome扩展程序，它使用Meta的分段任何模型从图像中提取前景对象并将其复制到剪贴板。）
++ Tails <https://tails.boum.org/index.en.html>
+（一个可以防止审查和监视的便携式操作系统）
++ GrapheneOS <https://grapheneos.org/>
+（具有Android应用程序兼容性的私有且安全的移动操作系统。作为一个非营利性开源项目开发。）
++ Rath <https://github.com/Kanaries/Rath>
+（RATH是数据分析和可视化工具（如 Tableau）的开源替代品，还是次世代的数据分析应用的雏形。）
++ MCDR <https://github.com/Fallen-Breath/MCDReforged>  
+（MCDReforged是一个可以在完全不对 Minecraft 服务端进行修改的情况下，通过可自定义的插件系统，提供对服务端的管理能力的工具）
++ Rss-IT人 <https://github.com/Gracker/Rss-IT>  
+（项目记录了个人订阅的一些科技人的 Blog 地址,欢迎大家推荐,一起来完善!——[@Jianwu Gao](https://github.com/Gracker)）
+
