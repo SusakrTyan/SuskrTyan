@@ -48,6 +48,7 @@
 + RVC变声（VITS框架）：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/
 + VC Client变声：https://github.com/w-okada/voice-changer/
 + NullLib.PhantomTank（幻影坦克）： https://www.nuget.org/packages/NullLib.PhantomTank/
+
 ## ACG
 + MoeTTS（gal角色TTS模型库）：https://github.com/search?p=3&q=TTS&type=Repositories/
 + Chara（桌面宠物）：https://github.com/wkgcass/Chara
@@ -65,6 +66,18 @@
 + Notion风格头像：https://github.com/Mayandev/notion-avatar/
 + FinancialSupportForOpenSource（开源挣钱手册）：https://github.com/wizicer/FinancialSupportForOpenSource/
 + 让AI来玩王者：https://github.com/FengQuanLi/WZCQ/
+
+## 媒体处理工具
++ QuickCut <https://github.com/HaujetZhao/QuickCut>  
+（Quick Cut 是一款轻量、强大、好用的视频处理软件。它是一个轻量的工具，而不是像 Davinci Resolve、Adobe Premiere 那样专业的、复杂的庞然大物。Quick Cut 可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……）
++ yt-dlp-gui <https://github.com/dsymbol/yt-dlp-gui>  
+（命令行工具yt-dlp的图形界面，允许用户下载来自各种网站（包括YouTube）的视频。 它旨在为那些不习惯使用命令行的人提供更加用户友好和可访问性。）
++ Huntly <https://github.com/lcomplete/huntly>  
+（Huntly 是一个信息管理工具，它不仅可以自托管，也可以通过客户端在本地运行。可以用于RSS订阅管理）
++ Obsidian <https://obsidian.md/>  
+（一款开源的笔记软件）
++ Pot <https://github.com/pot-app/pot-desktop>  
+（一个跨平台的划词翻译软件）
 ## 停止维护
 + 贴吧 Lite：https://github.com/HuanCheng65/TiebaLite/
 + Pixiv画师下载插件：https://github.com/Mapaler/PixivUserBatchDownload/
