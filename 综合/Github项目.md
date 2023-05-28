@@ -44,6 +44,8 @@
 > Rety是一个可以对编辑操作进行演示重播的库
 + dora ： <https://www.dora.run/>  
 > 3D动画网页生成与编辑
++ Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime/  
+> 个轻量级的JavaScript动画库，具有简单但功能强大的API。它适用于CSS属性，SVG，DOM属性和JavaScript对象。
 
 ## 有趣
 + 神级注释：https://github.com/Blankj/awesome-comment/  
@@ -60,8 +62,6 @@
 > 在ChromeOS 中运行 Android 应用程序，或在 OS X、Linux 和 Windows 中运行 Chrome。
 + 垃圾代码书写准则：https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md  
 > 这是一个你的项目应该遵循的垃圾代码书写准则的列表，把其称为适当的垃圾代码。
-+ Anime.js（JavaScript动画）：https://github.com/juliangarnier/anime/  
-> 个轻量级的JavaScript动画库，具有简单但功能强大的API。它适用于CSS属性，SVG，DOM属性和JavaScript对象。
 + ReVanced YouTube：https://github.com/sponsors/revanced/  
 > ReVanced 旨在允许补丁自动在应用程序上运行，具有广告拦截、自定义主题等补丁，甚至是全新的功能 - 完全开源且免费
 + RVC变声（VITS框架）：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/  
