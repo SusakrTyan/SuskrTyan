@@ -33,7 +33,7 @@
 + [bilibili推荐栏](SuskrTyan/bilibili推荐栏.md)
 + [YouTube推荐栏](SuskrTyan/YouTube推荐栏.md)
 + [家庭、私有制和国家起源](SuskrTyan/家庭、私有制和国家起源.md)
-+ [雜項]（SuskrTyan/雜項.md）
++ [雜項](SuskrTyan/雜項.md)
 + 闲聊群（百合）
 ![DCF4D287-A10C-4FD7-85DA-62A8BEFD4E17](https://github.com/SusakrTyan/SuskrTyan/assets/130807617/966267a6-cf21-4d38-9ad5-70d3ad4dd795)
  
