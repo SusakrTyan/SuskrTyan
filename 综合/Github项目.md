@@ -15,6 +15,7 @@
 > 知乎去广告Xposed模块
 + PyDebloatX（卸载Windows默认程序）：https://github.com/Teraskull/PyDebloatX/  
 > 用于卸载默认Windows 10应用程序的Python项目。
++ Sketchware Pro（可视化安卓开发）： https://github.com/Sketchware-Pro/Sketchware-Pro/releases
 
 ## AI模型工具
 + Awesome ChatGPT ： <https://github.com/sindresorhus/awesome-chatgpt>  
