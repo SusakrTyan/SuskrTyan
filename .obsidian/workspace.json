@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d066e53ab2c234ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "13982ca788554831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436c88937525d28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "综合/Github项目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31ef96401d23f288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目与资源/Windows软件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e93406bc626cd60",
+    "type": "split",
+    "children": [
+      {
+        "id": "404de175ee830b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf3cd0c1f2c7de8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd53004d4c9f4323",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76db81abaf21e0ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc36105fa5a7ae5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e0c8580681e3cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9a50d7c167f5e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目与资源/Windows软件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53aa31fa2e3cbdfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目与资源/Windows软件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f999ad55c8bef992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37600f368a70d11c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目与资源/Windows软件.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "31ef96401d23f288",
+  "lastOpenFiles": [
+    "项目与资源/IOS软件.md",
+    "项目与资源/Android软件.md",
+    "项目与资源/BT种子下载.md",
+    "项目与资源/项目与Github项目.md",
+    "综合/Github项目.md",
+    "大杂烩/壁纸检索.md",
+    "综合/壁纸.md",
+    "README.md",
+    "ACGN相关/游戏.md",
+    "ACGN相关/情报屋.md",
+    "ACGN相关/轻小说.md",
+    "ACGN相关/漫画.md",
+    "ACGN相关/动画.md",
+    "ACGN相关/插画.md",
+    "娱乐向/Youtube推荐栏.md",
+    "娱乐向/Bilibili推荐栏.md",
+    "SuskrTyan/YouTube推荐栏.md",
+    "SuskrTyan/bilibili推荐栏.md",
+    "综合/音乐.md",
+    "ACG/ACG综合.md",
+    "综合/字幕.md",
+    "大杂烩/字幕查询.md",
+    "大杂烩/音乐鉴赏.md",
+    "ACG/ACG百科の咨询.md",
+    "ACG/ACG论坛.md",
+    "ACG/ACG图片.md",
+    "笔记",
+    "娱乐向",
+    "大杂烩",
+    "学习资料",
+    "项目与资源",
+    "ACGN相关"
+  ]
+}

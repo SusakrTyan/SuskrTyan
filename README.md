@@ -1,38 +1,41 @@
 # <a href="https://www.marxists.org/">马列主义读物</a>
 # SuskrTyan
 这是一个**导航**性质的列表，专门收录实用性的网址、不过也会弄些好玩有趣的网站
-## ACG资源
-+ [动漫](ACG/ACG动漫.md)
-+ [轻小说](ACG/ACG轻小说.md)
-+ [图片](ACG/ACG图片.md)
-+ [游戏](ACG/ACG游戏.md)
-+ [百科の咨询](ACG/ACG百科の咨询.md)
-+ [综合](ACG/ACG综合.md)
-## 科技
-+ [Android](科技/Android.md)
-+ [Windows](科技/Windows.md)
-+ [iOS](科技/iOS.md")
-+ [项目](科技/项目.md)
-+ [图片搜索](科技/图片搜索.md)
-+ [浏览器插件](科技/浏览器插件.md)
-+ [加密学](科技/加密学.md)
-## 综合
-+ [海淘](综合/海淘.md)
-+ [Github项目](综合/Github项目.md)
-+ [BT种子下载](综合/BT种子下载.md)
-+ [资源站](综合/资源站.md)
-+ [字幕](综合/字幕.md)
-+ [壁纸](综合/壁纸.md)
-+ [音乐](综合/音乐.mf)
-+ [乱七八糟](综合/乱七八糟.md)
-+ [游戏](综合/游戏.md)
-## 外语学习
-+ [日语](外语学习/日语.md)
-+ [英语](外语学习/英语.md)
-## SuskrTyan笔记/推荐
-+ [bilibili推荐栏](SuskrTyan/bilibili推荐栏.md)
-+ [YouTube推荐栏](SuskrTyan/YouTube推荐栏.md)
-+ [家庭、私有制和国家起源](SuskrTyan/家庭、私有制和国家起源.md)
+## ACGN相关
+[动画](ACGN相关/动画.md)
+[漫画](ACGN相关/漫画.md)
+[插画](ACGN相关/插画.md)
+[游戏](ACGN相关/游戏.md)
+[轻小说](ACGN相关/轻小说.md)
+[情报屋](ACGN相关/情报屋.md)
+## 项目与资源
+[项目与Github项目](项目与资源/项目与Github项目.md)
+[Android软件](项目与资源/Android软件.md)
+[Windows软件](项目与资源/Windows软件.md)
+[IOS软件](项目与资源/IOS软件.md)
+[浏览器插件](项目与资源/浏览器插件.md)
+[素材搜寻](项目与资源/素材.md)
+[BT种子下载](项目与资源/BT种子下载.md)
+## 学习资料
+[代码开发指南](学习资料/代码开发指南.md)
+[日语学习](学习资料/日语学习.md)
+[英语学习](学习资料/英语学习.md)
+## 大杂烩
+[字幕查询](大杂烩/字幕查询.md)
+[壁纸检索](大杂烩/壁纸检索.md)
+[海淘相关](大杂烩/海淘相关.md)
+[音乐鉴赏](大杂烩/音乐鉴赏.md)
+[个人博客](大杂烩/个人博客.md)
+[论坛一览](大杂烩/论坛一览.md)
+[杂项](大杂烩/杂项.md)
+## 娱乐向与推荐
+[Bilibili推荐栏](娱乐向/Bilibili推荐栏.md)
+[Youtube推荐栏](娱乐向/Youtube推荐栏.md)
+## SuskrTyan笔记
+[家庭、私有制和国家起源](笔记/家庭、私有制和国家起源.md)
+[一些有趣的](笔记/一些有趣的.md)
+
+---
 + 闲聊群（百合）
 ![DCF4D287-A10C-4FD7-85DA-62A8BEFD4E17](https://github.com/SusakrTyan/SuskrTyan/assets/130807617/966267a6-cf21-4d38-9ad5-70d3ad4dd795)
  
