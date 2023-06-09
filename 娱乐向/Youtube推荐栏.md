@@ -1,4 +1,6 @@
 ## Youtube推荐栏
+- Huberman Andrew：https://youtube.com/@hubermanlab/
+> 脑神经学习播客（B站有部分中文翻译）
 - Bana cn.蕉バ~：<https://youtube.com/@Jia0bana/>
 > 两性关系主观感受（女）、如果是男生可以看看哩！（自主参考判断、也勿盲目自信、每一个人多不一样）
 >
