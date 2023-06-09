@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "综合/Github项目.md",
+                "file": "项目与资源/素材与资料.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31ef96401d23f288",
+            "id": "53a7de083d3c50b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目与资源/Windows软件.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目与资源/Windows软件.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目与资源/Windows软件.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目与资源/Windows软件.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,34 +159,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31ef96401d23f288",
+  "active": "53a7de083d3c50b5",
   "lastOpenFiles": [
-    "项目与资源/IOS软件.md",
-    "项目与资源/Android软件.md",
-    "项目与资源/BT种子下载.md",
-    "项目与资源/项目与Github项目.md",
-    "综合/Github项目.md",
-    "大杂烩/壁纸检索.md",
-    "综合/壁纸.md",
-    "README.md",
     "ACGN相关/游戏.md",
     "ACGN相关/情报屋.md",
     "ACGN相关/轻小说.md",
-    "ACGN相关/漫画.md",
     "ACGN相关/动画.md",
     "ACGN相关/插画.md",
-    "娱乐向/Youtube推荐栏.md",
     "娱乐向/Bilibili推荐栏.md",
-    "SuskrTyan/YouTube推荐栏.md",
-    "SuskrTyan/bilibili推荐栏.md",
-    "综合/音乐.md",
-    "ACG/ACG综合.md",
-    "综合/字幕.md",
+    "娱乐向/Youtube推荐栏.md",
+    "学习资料/代码开发指南.md",
+    "学习资料/日语学习.md",
+    "项目与资源/Android软件.md",
+    "项目与资源/项目与Github项目.md",
+    "项目与资源/素材与资料.md",
+    "大杂烩/杂项.md",
+    "项目与资源/IOS软件.md",
+    "项目与资源/Windows软件.md",
+    "项目与资源/BT种子下载.md",
+    "项目与资源/图片搜索.md",
+    "项目与资源/浏览器插件.md",
     "大杂烩/字幕查询.md",
     "大杂烩/音乐鉴赏.md",
-    "ACG/ACG百科の咨询.md",
-    "ACG/ACG论坛.md",
-    "ACG/ACG图片.md",
+    "大杂烩/海淘相关.md",
+    "大杂烩/个人博客.md",
+    "大杂烩/壁纸检索.md",
+    "笔记/一些有趣的.md",
+    "笔记/家庭、私有制和国家起源.md",
+    "综合/乱七八糟.md",
     "笔记",
     "娱乐向",
     "大杂烩",
