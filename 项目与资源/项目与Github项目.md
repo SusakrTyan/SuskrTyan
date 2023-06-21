@@ -28,9 +28,13 @@
 - PyDebloatX（卸载Windows默认程序）：<https://github.com/Teraskull/PyDebloatX/>  
 > 用于卸载默认Windows 10应用程序的Python项目。 
 - 视频解析：<https://www.y2mate.com/zh-cn/>
-> 
+> 视频与音频的解析与下载
 - 在线文件格式转换：<https://onlineconvertfree.com/zh/>
-> 
+> 一个在线的文件格式转换站点
+- Aether：<https://getaether.net/>
+> 一个无服务器的点对点临时公共社区
+- Boat：<https://github.com/AOF-Dev/Boat>
+> Boat,将桌面程序移植到Android，本来是一个MinecraftJava版安卓启动器。
 
 ## AI模型工具
 - Awesome ChatGPT ： <https://github.com/sindresorhus/awesome-chatgpt>  
@@ -48,7 +52,7 @@
 - MiniGPT-4（本地/非官方）： https://github.com/Vision-CAIR/MiniGPT-4/  
 > 本地部署的GPT，爱来自MiniGPT-4
 - DeepSpeed - GPT：https://github.com/microsoft/DeepSpeed/  
-> 一个深度学习优化库，使分布式训练和推理变得简单、高效和有效。
+> 一个深度学习优化库，使分布式训练和推理变得简单、高效和有效
 - TTSModels（AI声库）：<https://github.com/CjangCjengh/TTSModels>
 > 一些AI声库的整理
 - ChatGPT 提示词：<https://snackprompt.com>
@@ -59,7 +63,8 @@
 > AI绘图提示词搜索
 - Stable Diffusion提示词：<https://publicprompts.art>
 > 绘图提示词例举
-
+- Real-ESRGAN：<https://github.com/xinntao/Real-ESRGAN/blob/master/README_CN.md>
+> 视频与图片修复工具，即修复视频与图片的分辨率，可用于超分辨率
 
 ## Web相关工具
 - Halo ： <https://halo.run/>  
