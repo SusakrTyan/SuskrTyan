@@ -65,7 +65,7 @@
 > 绘图提示词例举
 - Real-ESRGAN：<https://github.com/xinntao/Real-ESRGAN/blob/master/README_CN.md>
 > 视频与图片修复工具，即修复视频与图片的分辨率，可用于超分辨率
-
+> So-VITS-SVC 4.1：https://www.yuque.com/umoubuton/ueupp5/
 ## Web相关工具
 - Halo ： <https://halo.run/>  
 > 强大易用的开源建站工具
