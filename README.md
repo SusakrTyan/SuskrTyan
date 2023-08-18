@@ -1,4 +1,4 @@
-# <a href="https://www.marxists.org/">马列主义读物</a>
+# <a href="https://www.marxists.org/">马列主义读物（托派）</a>
 # SuskrTyan
 这是一个**导航**性质的列表，专门收录实用性的网址、不过也会弄些好玩有趣的网站
 ## ACGN相关
