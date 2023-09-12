@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { readdirSync } from 'node:fs'
 
-const items = ['笔记', '大杂烩', '项目与资源', '学习资料', '影视推荐', '娱乐向', 'ACGN相关'];
+const items = ['笔记', '大杂烩', '项目与资源', '学习资料', '影视推荐', '娱乐向', 'ACGN相关', 'SuskrTyan'];
 
 const getNavItems = () => items.map(item => {
   const children = readdirSync(`./${item}/`)
@@ -27,6 +27,7 @@ export default defineConfig({
   title: "SuskrTyan",
   description: "这是一个导航性质的列表，专门收录实用性的网址",
   base: '/SuskrTyan',
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
